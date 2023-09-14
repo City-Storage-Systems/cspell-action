@@ -2,6 +2,29 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [3.1.1](https://github.com/streetsidesoftware/cspell-action/compare/v3.1.0...v3.1.1) (2023-09-14)
+
+
+### Updates and Bug Fixes
+
+* Update CSpell to (7.3.3) (main) ([#1367](https://github.com/streetsidesoftware/cspell-action/issues/1367)) ([63ab694](https://github.com/streetsidesoftware/cspell-action/commit/63ab694b3b6fa34f8056274f4f2567b45251df1a))
+* Update CSpell to (7.3.5) (main) ([#1369](https://github.com/streetsidesoftware/cspell-action/issues/1369)) ([13cc2eb](https://github.com/streetsidesoftware/cspell-action/commit/13cc2ebef378e33b3d103e9f91a26ed33c9a7e76))
+* Update CSpell to (7.3.6) (main) ([#1377](https://github.com/streetsidesoftware/cspell-action/issues/1377)) ([85b43c4](https://github.com/streetsidesoftware/cspell-action/commit/85b43c4ac1052e311af32e69baf08880e1c83cf0))
+* Workflow Bot -- Update ALL Dependencies (main) ([#1360](https://github.com/streetsidesoftware/cspell-action/issues/1360)) ([c1cc4c6](https://github.com/streetsidesoftware/cspell-action/commit/c1cc4c67fd0c4719fc9dbec8e55fa67403b1e4fe))
+* Workflow Bot -- Update ALL Dependencies (main) ([#1370](https://github.com/streetsidesoftware/cspell-action/issues/1370)) ([a3eaabc](https://github.com/streetsidesoftware/cspell-action/commit/a3eaabc84912619e6fcbfc5d9e52b8eba7a75864))
+
+
+### Continuous Integration
+
+* Workflow Bot -- Update ALL Dependencies (main) ([#1376](https://github.com/streetsidesoftware/cspell-action/issues/1376)) ([05c83d3](https://github.com/streetsidesoftware/cspell-action/commit/05c83d304e8423358d9e2aa18fb3b194eede70e9))
+
+
+### Miscellaneous
+
+* **deps:** bump actions/checkout from 3 to 4 ([#1362](https://github.com/streetsidesoftware/cspell-action/issues/1362)) ([8e634ea](https://github.com/streetsidesoftware/cspell-action/commit/8e634eaf01dbf4b1ff7a6553bba9eb3f2f45e6cc))
+* **deps:** bump coverallsapp/github-action from 2.2.1 to 2.2.3 ([#1363](https://github.com/streetsidesoftware/cspell-action/issues/1363)) ([d358251](https://github.com/streetsidesoftware/cspell-action/commit/d3582515db7c4ffe7b61ce7c3a630447f5e11483))
+* **deps:** bump tibdex/github-app-token from 1 to 2 ([#1375](https://github.com/streetsidesoftware/cspell-action/issues/1375)) ([767d813](https://github.com/streetsidesoftware/cspell-action/commit/767d81367f353a50d2bfdd5a5269d2ad344d9a51))
+
 ## [3.1.0](https://github.com/streetsidesoftware/cspell-action/compare/v3.0.0...v3.1.0) (2023-09-01)
 
 
